@@ -1,0 +1,24 @@
+*{
+	font-family: Montserrat;
+}
+
+
+.nav-item{
+	margin-left:200px;
+}
+
+.header_image{
+	height: 500px;
+}
+
+.container{
+	padding: 50px;
+}
+
+#product_features{
+	margin-top: 50px;
+}
+
+#testimonials{
+	margin-top: 50px;
+}
